@@ -12,3 +12,6 @@ console.log(age);
 console.log(isApproved);
 console.log(firstName);
 console.log(interestRate);
+//primitive types  - number string boolean undefined null
+//reference types - object array function
+//dynamically typed - things defined at runtime
