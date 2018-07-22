@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42de0986-1c32-4197-9a50-f6f91b369e76" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Javascript/practical-app/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/practical-app/4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/practical-app/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/practical-app/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/practical-app/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/practical-app/6.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="5.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javascript/practical-app/5.html">
+      <file leaf-file-name="6.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Javascript/practical-app/6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+            <state relative-caret-position="135">
+              <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -50,6 +50,7 @@
         <option value="$PROJECT_DIR$/Javascript/practical-app/3.html" />
         <option value="$PROJECT_DIR$/Javascript/practical-app/4.html" />
         <option value="$PROJECT_DIR$/Javascript/practical-app/5.html" />
+        <option value="$PROJECT_DIR$/Javascript/practical-app/6.html" />
       </list>
     </option>
   </component>
@@ -142,12 +143,12 @@
       <workItem from="1531520103537" duration="1395000" />
       <workItem from="1531521596161" duration="6975000" />
       <workItem from="1532049580129" duration="181000" />
-      <workItem from="1532256398382" duration="4710000" />
+      <workItem from="1532256398382" duration="5498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13261000" />
+    <option name="totallyTimeSpent" value="14049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1024" y="23" width="1024" height="677" extended-state="0" />
@@ -341,8 +342,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript/practical-app/5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
+        <state relative-caret-position="77">
           <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/practical-app/6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
         </state>
       </provider>
     </entry>
